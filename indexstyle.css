@@ -1,20 +1,9 @@
-.ball {
-    border-radius: 25px;
-    width: 50px;
-    height: 50px;
-    background: #c00;
-    position: absolute;
-    top: 0;
-    left: 0;
-    transition: transform 1s;
-  }
-
 nav {
     display: flex;
     gap: 0.5rem;
-}
+  }
   
-a {
+  a {
     flex: 1;
     background-color: #333;
     color: #fff;
@@ -23,14 +12,11 @@ a {
     text-align: center;
     text-decoration: none;
     transition: all 0.5s ease-out;
-}
+  }
   
-a:hover,
-a:focus {
+  a:hover,
+  a:focus {
     background-color: #fff;
     color: #333;
-}
+  }
 
-body{
-    background-color: blanchedalmond;
-}
