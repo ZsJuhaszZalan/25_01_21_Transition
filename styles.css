@@ -37,7 +37,7 @@
 }
 
 .box4:hover {
-    transform: translateX(200px) translateY(200px) translateZ(200px);
+    transform: translate(1000px, 300px);
 }
 
 .box5 {
